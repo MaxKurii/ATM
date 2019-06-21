@@ -26,6 +26,6 @@ public class ATM {
         slotCard.cash = slotCard.cash + cash;
         System.out.println("Polozhil na card " + cash);
 
-
+//
     }
 }
